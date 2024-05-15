@@ -45,7 +45,7 @@ This project uses MongoDB as database. please install mongodb server in local en
 🏃 Run Locally
 Clone the project
 
-  git clone 
+  git clone https://github.com/Rutvik-Gandhi/Online_Exam_Portal.git
 Go to the project directory
 
   cd project-directory
