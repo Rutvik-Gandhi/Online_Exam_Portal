@@ -3,9 +3,7 @@
 📔 Table of Contents
 
 About the Project
-
 Tech Stack
-
 Features
 Environment Variables
 Getting Started
